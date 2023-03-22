@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GeoFencing</string>
+    <string name="title_activity_geo_fencing_maps">GeoFencingMapsActivity</string>
 </resources>
